@@ -54,7 +54,7 @@ Your credentials are stored locally in an encrypted format using Windows DPAPI, 
 - .NET Framework 4.6 or higher
 
 ### Steps
-1. Download the latest release from the [Releases](https://github.com/yourusername/slt-monitor/releases) page
+1. Download the latest release from the [Releases](https://github.com/yourusername/SLT-Monitor-application/releases) page
 2. Extract the ZIP file to a location of your choice
 3. Run `SLTMonitor.exe`
 4. Configure your settings
